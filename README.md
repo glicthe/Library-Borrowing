@@ -3,10 +3,8 @@
 <h1>Linked List Library Case</h1>
 <p>Books available in the library, have a stock varying from 1 to N. The types of library members have levels as priority levels, namely students, lecturers, and the general public. When many members order the same book and availability is limited, those with higher priority will get the borrowing facility.</p>
 
-<h4> <span> · </span> <a href="https://github.com/glicthe/Library-Borrowing/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/glicthe/Library-Borrowing/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/glicthe/Library-Borrowing/issues"> Request Feature </a> </h4>
-
-
 </div>
+
 
 ## :star2: About the ADT Program
 Given 3 scenario of implementation using `Linked List`
