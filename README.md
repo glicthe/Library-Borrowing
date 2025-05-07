@@ -78,3 +78,10 @@ Closes the program gracefully. Ensures all data is saved (if applicable) and rel
 <img src="Analysis/Documentation3.jpg" width="400"> <img src="Analysis/Documentation4.jpg" width="400">
 <img src="Analysis/Documentation5.jpg" width="400"> <img src="Analysis/Documentation6.jpg" width="400">
 <img src="Analysis/Documentation7.jpg" width="400"> <img src="Analysis/Documentation8.jpg" width="400">
+
+## :hammer_and_wrench: Reference
+> 1. https://github.com/KhuzaimaAwan47/Array-Implementation-of-Linked-List
+> 2. https://github.com/ChrisRackauckas/LinkedLists.jl
+> 3. Deepseek Ai
+> 4. Claude Ai
+> 5. [Pak Ade's Code](https://drive.google.com/file/d/1xAQHkF3mZfXNSP3P5tAHSSdu4DeIDEYF/view?usp=sharing).
