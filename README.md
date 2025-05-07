@@ -74,4 +74,7 @@ Closes the program gracefully. Ensures all data is saved (if applicable) and rel
 
 
 ## :camera: Analysis
-
+<img src="Analysis/Documentation1.jpg" width="400"> <img src="Analysis/Documentation2.jpg" width="400">
+<img src="Analysis/Documentation3.jpg" width="400"> <img src="Analysis/Documentation4.jpg" width="400">
+<img src="Analysis/Documentation5.jpg" width="400"> <img src="Analysis/Documentation6.jpg" width="400">
+<img src="Analysis/Documentation7.jpg" width="400"> <img src="Analysis/Documentation8.jpg" width="400">
